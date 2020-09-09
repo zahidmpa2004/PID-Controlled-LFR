@@ -1,0 +1,2 @@
+# PID-Controlled-LFR
+PID Controlled Line-Following Robot is designed to follow a predetermined path. The Robot autonomously follows the black line on the white surface. The position of the robot is determined using QTR Sensor Array. Then the error is calculated and compared with the reference value which is given as feedback to the PID controller which adjusts the motor speeds so that the robot follows the line smoothly.  
